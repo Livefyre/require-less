@@ -6,6 +6,6 @@
     ".gitignore"
   ],
   "dependencies": {
-    "require-css": "gobengo/require-css#ie8"
+    "require-css": "gobengo/require-css#transformEach2"
   }
 }
